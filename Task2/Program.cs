@@ -23,3 +23,12 @@ Console.WriteLine(quotient);
 d1=6;
 double quotient2= i1/d1;
 Console.WriteLine(quotient2);
+
+int a = 7;
+int b = 9;
+int c = 5;
+int d = 9;
+int APX1 = (a*b);
+int APX2 = (c+d);
+double APX3 = (APX1/APX2);
+Console.WriteLine(APX3);
