@@ -1,28 +1,32 @@
-﻿System.Console.Write("Введите первое число: ");
-int N1 = Convert.ToInt32(Console.ReadLine());
+﻿using System.Runtime.ExceptionServices;
 
-System.Console.Write("Введите второе число: ");
-int N2 = Convert.ToInt32(Console.ReadLine());
-
-if (N1 == N2)
+void main()
 {
-   System.Console.WriteLine(N1 + " = " + N2);
-  
+   int N1 = readInt("Введите первое число: ");
+   int N2 = readInt("Введите второе число: ");
+   RavnoZnak(N1, N2);
 }
-else
-if (N1 > N2)
+int readInt(string msg)
 {
-   int max = N1;
-   int min = N2;
-
-   System.Console.WriteLine("max = " + N1);
-   System.Console.WriteLine("min = " + N2);
+   System.Console.Write(msg);
+   return Convert.ToInt32(Console.ReadLine());  
 }
-else
+void RavnoZnak(int first, int second)
 {
-   int max = N2;
-   int min = N1;
+   if (first == second)
+   {
+      System.Console.WriteLine($"{first} = {second}");
+   }
+   else
+   if (first > second)
+   {
+      System.Console.WriteLine($"max = {first} min = {second}");
+   }
+   else
+   {
+      System.Console.WriteLine($"min = {first} max = {second}");
+   }
 
-   System.Console.WriteLine("max = " + N2);
-   System.Console.WriteLine("min = " + N1);
 }
+main();
+
