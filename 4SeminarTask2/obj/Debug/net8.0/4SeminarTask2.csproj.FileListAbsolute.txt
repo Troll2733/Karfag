@@ -1,0 +1,15 @@
+E:\Lesson-1\4SeminarTask2\bin\Debug\net8.0\4SeminarTask2.exe
+E:\Lesson-1\4SeminarTask2\bin\Debug\net8.0\4SeminarTask2.deps.json
+E:\Lesson-1\4SeminarTask2\bin\Debug\net8.0\4SeminarTask2.runtimeconfig.json
+E:\Lesson-1\4SeminarTask2\bin\Debug\net8.0\4SeminarTask2.dll
+E:\Lesson-1\4SeminarTask2\bin\Debug\net8.0\4SeminarTask2.pdb
+E:\Lesson-1\4SeminarTask2\obj\Debug\net8.0\4SeminarTask2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lesson-1\4SeminarTask2\obj\Debug\net8.0\4SeminarTask2.AssemblyInfoInputs.cache
+E:\Lesson-1\4SeminarTask2\obj\Debug\net8.0\4SeminarTask2.AssemblyInfo.cs
+E:\Lesson-1\4SeminarTask2\obj\Debug\net8.0\4SeminarTask2.csproj.CoreCompileInputs.cache
+E:\Lesson-1\4SeminarTask2\obj\Debug\net8.0\4SeminarTask2.sourcelink.json
+E:\Lesson-1\4SeminarTask2\obj\Debug\net8.0\4SeminarTask2.dll
+E:\Lesson-1\4SeminarTask2\obj\Debug\net8.0\refint\4SeminarTask2.dll
+E:\Lesson-1\4SeminarTask2\obj\Debug\net8.0\4SeminarTask2.pdb
+E:\Lesson-1\4SeminarTask2\obj\Debug\net8.0\4SeminarTask2.genruntimeconfig.cache
+E:\Lesson-1\4SeminarTask2\obj\Debug\net8.0\ref\4SeminarTask2.dll
